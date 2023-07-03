@@ -139,6 +139,16 @@ scrape_configs:
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
+### *Ответ*
+
+<details>
+
+![image](https://github.com/Ivashka80/Prometheus_1/assets/121082757/06edebca-dadf-45a0-a659-2036ec3fad48)
+
+![Снимок экрана от 2023-07-03 13-07-45](https://github.com/Ivashka80/Prometheus_1/assets/121082757/14129d30-1ea7-4c89-9548-c0bda4cf0942)
+
+</details>
+
 ---
 
 ### Задание 5*
