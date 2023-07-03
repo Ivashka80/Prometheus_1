@@ -143,9 +143,13 @@ scrape_configs:
 
 <details>
 
-![image](https://github.com/Ivashka80/Prometheus_1/assets/121082757/06edebca-dadf-45a0-a659-2036ec3fad48)
+Установлен grafana-server версии 10.0.0, в которой юзер находится уже в правой верхней части.
 
-![Снимок экрана от 2023-07-03 13-07-45](https://github.com/Ivashka80/Prometheus_1/assets/121082757/14129d30-1ea7-4c89-9548-c0bda4cf0942)
+![image](https://github.com/Ivashka80/Prometheus_1/assets/121082757/b7695369-6e08-4f0d-82c4-afe0780b47b9)
+
+![image](https://github.com/Ivashka80/Prometheus_1/assets/121082757/517c9477-6a13-4884-ac92-e327bf5c0c45)
+
+![image](https://github.com/Ivashka80/Prometheus_1/assets/121082757/e329ccf5-216a-418a-bb21-3287b91d6b14)
 
 </details>
 
@@ -156,6 +160,14 @@ scrape_configs:
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
+
+<details>
+
+![image](https://github.com/Ivashka80/Prometheus_1/assets/121082757/19b04eb7-4de5-486d-9388-147ba0c91cea)
+
+![image](https://github.com/Ivashka80/Prometheus_1/assets/121082757/6bcdee5d-2ba4-46fd-aa7c-e7911020aa2c)
+
+</details>
 
 ## Критерии оценки
 1. Выполнено минимум 3 обязательных задания
